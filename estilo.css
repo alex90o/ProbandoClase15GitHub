@@ -1,0 +1,20 @@
+.row {
+    /* background-color:rgb(89, 42, 165); */
+    color:white;
+}
+
+.img1 {
+    width: 200px;
+    height: 400px;
+
+}
+
+#imgCard{
+    width: auto;
+    height: auto;
+}
+
+footer{
+    background-color:black !important;
+    color: violet;
+}
